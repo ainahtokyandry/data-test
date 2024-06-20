@@ -1,0 +1,11 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  width: 100%;
+}
+
+*, *:focus, *:focus-visible {
+  /* I find outline ugly so I decided to disable it */
+  outline: none !important;
+}

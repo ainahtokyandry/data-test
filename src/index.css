@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "Nexa Regular";
+    src: url("assets/fonts/Nexa Regular.otf");
+}
+
+body {
+    margin: 0;
+    display: flex;
+    place-items: center;
+    min-width: 320px;
+    min-height: 100vh;
+    font-family: Nexa Regular;
+}
